@@ -17,7 +17,7 @@ export default function Home() {
         <Chat />
       </main>
       <footer>
-        Powered by&nbsp;<a href="https://portfolio-samapan.netlify.app/" target="_blank" rel="noopener noreferrer">Samapan</a>
+        Powered by&nbsp;<a href="https://portfolio-samapan.netlify.app/" target="_blank" rel="noopener noreferrer">Meek</a>
       </footer>
     </div>
   )
